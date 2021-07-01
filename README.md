@@ -42,7 +42,7 @@
 
 ## Caso queira acessar pelo site (Deploy da aplicação)
 
-- Acesse [Agenda de Contatos](http://34.95.136.119 "Agenda de Contatos")
+- *Acesse [Agenda de Contatos](http://34.95.136.119 "Agenda de Contatos")
 
 ##### Obs: Deploy temporário para um projeto desafio*
 
