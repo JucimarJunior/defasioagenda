@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-###### A aplicação construída em algumas aulas do curso de JavaScript e TypeScript da Udemy, serve para o cadastro de contatos
+###### A aplicação construída em algumas aulas do curso de JavaScript e TypeScript da Udemy.
 
 <div>
   <img src="https://github.com/JucimarVinente/defasioagenda/blob/master/frontend/images/contatoapp.png" height="425">
